@@ -1,0 +1,90 @@
+<resources>
+
+    <!-- Strings for NOT for Translation -->
+    <string name="app_name" translatable="false">PopularMovies</string>
+    <string name="movie_db_base_url" translatable="false">api.themoviedb.org/3/movie/</string>
+    <string name="find_trailer" translatable="false">%1$s/videos</string>
+    <string name="movie_db_poster_base_url" translatable="false">http://image.tmdb.org/t/p/</string>
+    <string name="popular_tag" translatable="false">popular</string>
+    <string name="top_rated_tag" translatable="false">top_rated</string>
+    <string-array name="syncSort">
+        <item>@string/popular_tag</item>
+        <item>@string/top_rated_tag</item>
+    </string-array>
+
+    <string name="movie_db_api_key_param" translatable="false">api_key</string>
+    <string name="movies_db_results_json_tag" translatable="false">results</string>
+    <string name="movies_db_results_json_poster_path" translatable="false">poster_path</string>
+    <string name="movies_db_results_overview" translatable="false">overview</string>
+    <string name="movies_db_results_original_title" translatable="false">original_title</string>
+    <string name="movies_db_results_original_language" translatable="false">original_language</string>
+    <string name="movies_db_results_user_rating" translatable="false">vote_average</string>
+    <string name="movies_db_poster_format" translatable="false">w185/</string>
+    <string name="release_date" translatable="false">release_date</string>
+    <string name="movie_detail_fragment_tag" translatable="false">MOVIE_DETAIL_FRAG</string>
+    <string name="current_grid_item" translatable="false">current_grid_item</string>
+    <string name="current_spinner_item" translatable="false">current_spinner_item</string>
+    <string name="Dismiss" translatable="false">DISMISS</string>
+    <string name="showing_connect_message" translatable="false">showing_connect_message</string>
+    <string name="youtube_watch_uri" translatable="false">https://www.youtube.com/watch?v=%1$s</string>
+
+
+
+    <string name="sync_account_type">darshan.chitrahaar.com</string>
+
+    <string name="title_activity_movies_detail">Movie Information</string>
+    <string name="movie_poster_content_description">Movie Poster</string>
+    <string name="movie_plot_content_description">Movie Plot</string>
+    <string name="movie_rating_content_description">Movie Rating</string>
+    <string name="toolbar_content_description">Toolbar</string>
+    <string name="movie_rating_text">Average Vote:%1$s</string>
+    <string name="movies_list_fragment_tag">Movies</string>
+    <string name="movie_detail_image_content_description">Poster image for %1$s</string>
+    <string name="movie_detail_title_content_description">Movie title is %1$s</string>
+    <string name="movie_detail_overview_content_description">Plot for movie %1$s is %2$s</string>
+    <string name="movies_detail_view">Detail Movies</string>
+    <string name="movie_release">"Released on: %1$s"</string>
+    <string name="remove_from_favourites_content_description">"Remove movie %1$s to favourites"</string>
+
+
+    <string name="sort_menu_content_description">Tap to see popular or top-rated movies. By default, it shows popular movies.</string>
+    <string name="not_connected_snackbar_message">No internet connection. Please connect and refresh from the menu</string>
+    <string-array name="sort_elements">
+        <item>Popular</item>
+        <item>Top Rated</item>
+        <item>Favourite</item>
+    </string-array>
+
+    <string name="play_movie_trailer">Play Movie Trailer</string>
+    <string name="play_movie_trailer_content_description">Play Trailer for %1$s</string>
+    <string name="add_movie_to_favourite_content_description">Mark the movie %1$s as a favourite</string>
+    <string name="find_reviews">%1$s/reviews</string>
+    <string name="trailers_section_label">Trailers</string>
+    <string name="content_authority">com.chitrahaar.darshan</string>
+    <string name="no_trailer_videos_found">No Trailer Videos found</string>
+    <string name="no_reviews_found">No reviews available</string>
+    <string name="review_section_label">Reviews</string>
+    <string name="favourite">favourite</string>
+    <string name="remove_from_favourites">Remove from favorites</string>
+    <string name="add_to_favourite">Add to Favourite</string>
+    <string name="no_favourites_message">You have not favourites any movies</string>
+    <string name="review_author_content_description">Review for movie %1$s by %2$s</string>
+    <string name="review_text_content_description">Review for movie %1$s is %2$s</string>
+    <string name="sortPref">sortPref</string>
+    <string name="sortPreferences">sortPreferences</string>
+    <string name="currentPreferences">currentPreferences</string>
+    <string name="send_to">Share Trailer to</string>
+    <string name="no_movie_data_available">No movie data available from themoviedb.org</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="error_updating_record_favourite_movies">Failed to update the record with favourite movies</string>
+    <string name="failed_to_update_record">Failed to update the record</string>
+    <string name="share_trailer_content_description">Share Trailer %1$s of movie %2$s</string>
+    <string name="share_trailer">Share Trailer</string>
+    <string name="refresh_spinner">Refresh</string>
+    <string name="actionbar_spinner_sort">ActionBar Spinner</string>
+    <string name="no_movie_details">No Movie Details</string>
+    <string name="error_insert_row">"Failed to insert row into "</string>
+
+
+</resources>

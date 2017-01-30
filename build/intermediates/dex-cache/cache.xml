@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_3661fa7d32101934a1213883b0a32bcec584df78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b21360a08ef5707f15e9f2565d9b4b80622fb8e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_63c34b1e5f529030ec7796ae826786c969112719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1defd759b99e29c6b083471d87e4073e4b34fcbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_db5f183c7799601a25508df68e440e098728e3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9e3c80a2fd94451e21f6d87f7dd06c511ddbcbc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_b7f0716edb60264a18fbf1e5ed29a8e0f90d2bec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_40baeac00132a4c47b9e8749b5b22268c55f6a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5858c062c4e4fbf7ef64fc14ecb5ed9919581b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d719586f8a3bb3563325dfe487fe34d43e1bbd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_225bc36745c95df0a595ddc3fdaed89a10ddc429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_46d91565b74dc160567bd266b4bbbe5c721eaa44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_701962641255066586885fb50c8b5f4d8ea457e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b26421b514cf56ba746d2677924075a3640e77c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_6ae6cd2851762fe17ef9c6892062c8f930fcd67e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_caa98fedf47272887a97799ed57b6dd7502a5e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_971c9bb89d9a9b89012ff8a09e6a97e38e612270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_d084e694a62fa021eac36caff975da44ad596384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_b5c695470234cb0b770df0c262a1317a8eba9e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_adf4352ae1a6a3647f33f7840bb3a7da9a2349ef.jar" />
+    </item>
+
+</items>

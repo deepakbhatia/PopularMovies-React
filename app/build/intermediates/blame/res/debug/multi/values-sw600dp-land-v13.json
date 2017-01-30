@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 55,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 48,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 48,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 78,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/values-sw600dp-land/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 18,
+                        "endColumn": 78,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_no_favourites.png",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/mipmap-mdpi/ic_no_favourites.png"
+    },
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_av_play_arrow.png",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/mipmap-mdpi/ic_av_play_arrow.png"
+    },
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_social_share.png",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/mipmap-mdpi/ic_social_share.png"
+    },
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_toggle_star.png",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/mipmap-mdpi/ic_toggle_star.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/xml/sync_adapter.xml",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/xml/sync_adapter.xml"
+    },
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/xml/sync_authenticator.xml",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/src/main/res/xml/sync_authenticator.xml"
+    },
+    {
+        "merged": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/obelix/Documents/udacity_code/PopularMovies/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="movie_overview_text_size">22sp</dimen>
+    <dimen name="movie_rating_size">20sp</dimen>
+</resources>

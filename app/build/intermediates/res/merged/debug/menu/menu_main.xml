@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/spinner"
+        android:title="@string/actionbar_spinner_sort"
+        app:actionViewClass="android.support.v7.widget.AppCompatSpinner"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/referesh"
+        android:title="@string/refresh_spinner"
+        app:showAsAction="never"/>
+
+</menu>

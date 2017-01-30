@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <TextView
+        android:id="@+id/no_trailer_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/element_margin"
+        android:text="@string/no_trailer_videos_found"
+        android:visibility="gone"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/play_trailer"
+            android:layout_width="0dp"
+            android:layout_weight="4"
+            android:layout_margin="@dimen/element_margin"
+            android:layout_height="wrap_content"
+            android:background="@drawable/play_trailer_button_state"
+
+            android:drawableStart="@mipmap/ic_av_play_arrow"
+            android:drawableLeft="@mipmap/ic_av_play_arrow"
+
+            android:text="@string/play_movie_trailer"
+            android:contentDescription="@string/play_movie_trailer_content_description"
+            android:textAllCaps="false"
+
+            />
+        <ImageView
+            android:id="@+id/shareTrailer"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:src="@mipmap/ic_social_share"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/play_trailer_button_state"
+            android:contentDescription="@string/share_trailer"/>
+    </LinearLayout>
+    <View
+        style="@style/LineSeparatorStyle" />
+
+</LinearLayout>
